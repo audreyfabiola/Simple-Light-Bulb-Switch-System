@@ -94,7 +94,6 @@ int main(void) {
     while (true) {
         printf("\033[2J"); // Clear screen 
         printf("\033[1;1H"); // Move cursor to upper left
-        printf("Bulb: \n");
         if (o0 == 0) {
             OFF();
         } else {
@@ -114,4 +113,3 @@ int main(void) {
 
     return 0;
 }
-
