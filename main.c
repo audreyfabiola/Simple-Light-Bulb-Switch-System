@@ -45,7 +45,7 @@ void OFF() {
     white_on_red();
     printf(" OFF ");
     reset();
-    printf("||        |\n");
+    printf("||       |\n");
     printf("                |       ||_____||       |\n");
     printf("                |       |/    /||       |\n");
     printf("                |       /    / ||       |\n");
@@ -114,3 +114,4 @@ int main(void) {
 
     return 0;
 }
+
