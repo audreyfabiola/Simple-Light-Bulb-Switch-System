@@ -71,7 +71,7 @@ void ON() {
     reset();
     printf(") --- \n");
     printf("   , `-'.\n");
-    printf("  /   |  \ \\\n");  
+    printf("  /   |  \\\\n");  
     printf("                 _______________________ \n");
     printf("                |                       | \n");
     printf("                |       ____            | \n");
@@ -114,3 +114,4 @@ int main(void) {
 
     return 0;
 }
+
