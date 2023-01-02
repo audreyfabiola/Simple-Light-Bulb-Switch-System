@@ -49,5 +49,5 @@ Type the command `make all` in VSC's terminal.
 - #### In **Terminal**
 Direct to the 'Simple-Light-Bulb-Switch-System' folder using `cd <folder path>`. Then, type the command `make all`.
 
-## Screenshot of the System
+## Workflow of the System
 ![System](Assets/System.gif)
